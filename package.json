@@ -1,0 +1,22 @@
+{
+  "name": "teseract-domqueryjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aker-cl/domQueryJS.git"
+  },
+  "keywords": [
+    "domquery"
+  ],
+  "author": "Teseract",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aker-cl/domQueryJS/issues"
+  },
+  "homepage": "https://github.com/aker-cl/domQueryJS#readme"
+}
