@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/aker-cl/domQueryJS#readme",
   "dependencies": {
-    "teseract-reactivejs": "^1.0.0"
+    "teseract-domqueryjs": "file:"
+  },
+  "devDependencies": {
+    "teseract-reactivejs": "^1.0.2"
   }
 }
